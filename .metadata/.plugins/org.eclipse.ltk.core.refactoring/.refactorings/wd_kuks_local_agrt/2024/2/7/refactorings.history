@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;wd_kuks_local_agrt&apos;&#x0D;&#x0A;- Original project: &apos;wd_kuks_local_agrt&apos;&#x0D;&#x0A;- Original element: &apos;wd_kuks_local_agrt.pomialgorithms.java&apos;" description="Delete element" element1="/src&lt;wd_kuks_local_agrt{pomialgorithms.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1708093484918" subPackages="false" version="1.0"/>
+</session>
