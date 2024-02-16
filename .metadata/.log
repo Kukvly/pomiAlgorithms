@@ -156,3 +156,6 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2024-02-16 23:25:31.195
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.core.resources 4 376 2024-02-16 23:55:49.380
+!MESSAGE Marker id 5 not found.
